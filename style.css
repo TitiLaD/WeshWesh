@@ -1,0 +1,33 @@
+body
+{
+	background-color: rgb(75, 75, 75);
+}
+
+h1
+{
+	color: purple;
+	text-align: center;
+}
+
+#title
+{
+	width: 400px;
+	background-color: gray;
+	border: 2px solid black;
+	margin: 0 auto;
+}
+
+#text
+{
+	width: 400px;
+	height: 500px;
+	background-color: gray;
+	border: 2px solid black;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+p
+{
+	text-align: center;
+}
