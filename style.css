@@ -32,6 +32,12 @@ h1
 	margin-left: 150px;
 }
 
+button
+{
+	background-color: rgb(75, 75, 75);
+	color: purple;
+}
+
 p
 {
 	text-align: center;
